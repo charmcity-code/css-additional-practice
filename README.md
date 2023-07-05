@@ -26,15 +26,15 @@ _Here is the checklist for this portion of the demo:_
 
     6. Center the game container
 
-    7. Create a grid of 9 boxes 3 across(you can use spans for this)
+    7. Create a grid of 9 boxes 3 across (you can use spans for this)
 
-    8. Create black boarders on each box
+    8. Create black borders on each box
 
-    9. Round the corners on all boxes(review border-radius documentation)
+    9. Round the corners on all boxes (review border-radius documentation)
 
     10. Add an X or O to each box to simulate a game of tic tac toe.
 
-    11.	Change the boarders of the winning three boxes to red
+    11.	Change the borders of the winning three boxes to red
 
     12.	Add a text field below the game to indicate the winner of the simulated game.
 
@@ -55,7 +55,7 @@ _Here is the checklist for this portion of the demo:_
 
     3. Move the element level CSS to the Style element
 
-    4. Move on when the page styling achieved in exercise 1 is now represented  using a style element
+    4. Move on when the page styling achieved in exercise 1 is now represented using a style element
 
 ---
 
