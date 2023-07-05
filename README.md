@@ -1,6 +1,6 @@
 # CSS-Extra-Practice
 
-Before getting stareted:
+Before getting started:
 _Please review the documentation provided on the CSS box model_
 
 1. https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
