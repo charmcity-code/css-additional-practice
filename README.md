@@ -18,9 +18,9 @@ _Here is the checklist for this portion of the demo:_
 
     2. Change the position of the h1 element to be centered
 
-    3. Change the color of the h2 element to be green
+    3. Change the color of the h3 element to be green
 
-    4. Change the position of the h2 tag to be centered
+    4. Change the position of the h3 tag to be centered
 
     5. Create a container for the game
 
